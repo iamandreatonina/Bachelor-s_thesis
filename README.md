@@ -7,7 +7,7 @@
 + Co-supervisor: Nicola Casiraghi, PhD.
 
 <div align="center">
-  <img src="logo/cibio_logo.jpeg" alt="drawing" width="500"/>
+  <img src="logo/cibio_logo.jpeg" alt="drawing" width="200"/>
 </div>
 
 ### Abstract 
