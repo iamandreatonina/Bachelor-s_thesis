@@ -17,4 +17,4 @@ In this work, I present BroadBand, a web-based resource developed with the Shiny
 BroadBand allows an intuitive and custom exploration of SNVs and SCNAs data which can be filtered and summarized with a resolution level from gene to chromosome level and stratified across BRCA molecular subtypes and tumor classifications. 
 All retrieved information is reported and summarized as figures and tables, resulting in a valuable resource for additional downstream analysis or novel experimental designs.
 
-The thesis file is present in this repository, where the code is available at the following [GitHub repository](https://github.com/cibiobcg/BroadBand) and it is also possible to see how the application [works](https://bcglab.cibio.unitn.it/broadband).
+The thesis file is located in this repository. To explore the code related to the thesis, visit the [GitHub repository](https://github.com/cibiobcg/BroadBand). A live demonstration of the application is also available [here](https://bcglab.cibio.unitn.it/broadband).
