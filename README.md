@@ -3,7 +3,7 @@
 ## Development of a web-based resource for breast cancer genomic data exploration
 
 + Graduant: Andrea Tonina
-+ Supervisor : Alessandro Romanel, PhD.
++ Supervisor : Professor Alessandro Romanel, PhD.
 + Co-supervisor: Nicola Casiraghi, PhD.
 
 <div align="center">
